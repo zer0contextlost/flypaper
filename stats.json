@@ -1,17 +1,17 @@
 {
- "attacker_ips": 4480,
- "campaigns": 3426,
- "commands": 502185,
- "downloads": 14738,
+ "attacker_ips": 4889,
+ "campaigns": 3530,
+ "commands": 509948,
+ "downloads": 14835,
  "dropped_private_sessions": 487,
  "first_day": "2026-08-10",
  "iocs": 12,
- "last_day": "2026-11-15",
- "logins": 340083,
+ "last_day": "2026-11-16",
+ "logins": 351632,
  "malware_samples": 250,
- "scanner_ips_labelled": 904,
- "sessions": 355857,
- "sessions_cowrie": 84487,
- "sessions_honeyfleet": 271370,
- "web_requests": 78072
+ "scanner_ips_labelled": 946,
+ "sessions": 367985,
+ "sessions_cowrie": 88788,
+ "sessions_honeyfleet": 279197,
+ "web_requests": 90524
 }
