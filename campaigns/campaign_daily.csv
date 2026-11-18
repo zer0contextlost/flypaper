@@ -5011,14 +5011,14 @@ mcp:notifications/initialized,2026-11-03,4,3
 mcp:prompts/list,2026-11-03,2,2
 mcp:resources/list,2026-11-03,2,2
 mcp:tools/list,2026-11-03,4,3
-port:1433:mssql,2026-11-03,225,44
-port:2375:docker,2026-11-03,14,9
-port:3306:mysql,2026-11-03,1314,36
-port:5555:adb,2026-11-03,56,18
-port:5555:adb:adb shell command,2026-11-03,22,6
-port:5900:vnc,2026-11-03,31238,12
-port:6379:redis,2026-11-03,83,17
-port:9200:elasticsearch,2026-11-03,106,33
+port:1433:mssql,2026-11-03,414,44
+port:2375:docker,2026-11-03,27,9
+port:3306:mysql,2026-11-03,2211,36
+port:5555:adb,2026-11-03,103,18
+port:5555:adb:adb shell command,2026-11-03,42,6
+port:5900:vnc,2026-11-03,54745,12
+port:6379:redis,2026-11-03,110,17
+port:9200:elasticsearch,2026-11-03,187,33
 probe:ssh:03a80b21afa810682a776a7d42e5e6fb,2026-11-03,4,2
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-03,3,1
 probe:ssh:0a07365cc01fa9fc82608ba4019af499,2026-11-03,155,2
@@ -5249,19 +5249,19 @@ mcp:notifications/initialized,2026-11-04,6,4
 mcp:prompts/list,2026-11-04,2,2
 mcp:resources/list,2026-11-04,2,2
 mcp:tools/list,2026-11-04,6,4
-port:1433:mssql,2026-11-04,206,81
-port:2375:docker,2026-11-04,134,12
-port:2375:docker:container create,2026-11-04,2,1
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-04,1,1
-port:3306:mysql,2026-11-04,1454,42
-port:5555:adb,2026-11-04,120,18
-port:5555:adb:adb file upload,2026-11-04,6,1
-port:5555:adb:adb shell command,2026-11-04,21,4
-port:5900:vnc,2026-11-04,33612,13
-port:6379:redis,2026-11-04,217,36
-port:6379:redis:cron write via CONFIG SET,2026-11-04,1,1
-port:6379:redis:ssh key write via CONFIG SET,2026-11-04,6,1
-port:9200:elasticsearch,2026-11-04,86,25
+port:1433:mssql,2026-11-04,412,81
+port:2375:docker,2026-11-04,268,12
+port:2375:docker:container create,2026-11-04,4,1
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-04,2,1
+port:3306:mysql,2026-11-04,2908,42
+port:5555:adb,2026-11-04,240,18
+port:5555:adb:adb file upload,2026-11-04,12,1
+port:5555:adb:adb shell command,2026-11-04,42,4
+port:5900:vnc,2026-11-04,67224,13
+port:6379:redis,2026-11-04,434,36
+port:6379:redis:cron write via CONFIG SET,2026-11-04,2,1
+port:6379:redis:ssh key write via CONFIG SET,2026-11-04,12,1
+port:9200:elasticsearch,2026-11-04,172,25
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-04,7,1
 probe:ssh:0a07365cc01fa9fc82608ba4019af499,2026-11-04,1,0
 probe:ssh:16443846184eafde36765c9bab2f4397,2026-11-04,1,1
@@ -5421,17 +5421,17 @@ mcp:notifications/initialized,2026-11-05,4,3
 mcp:prompts/list,2026-11-05,2,2
 mcp:resources/list,2026-11-05,2,2
 mcp:tools/list,2026-11-05,4,2
-port:1433:mssql,2026-11-05,233,75
-port:2375:docker,2026-11-05,14,6
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-05,1,0
-port:3306:mysql,2026-11-05,1019,27
-port:5555:adb,2026-11-05,70,13
-port:5555:adb:adb file upload,2026-11-05,3,2
-port:5555:adb:adb shell command,2026-11-05,17,4
-port:5555:adb:miner via adb shell,2026-11-05,2,1
-port:5900:vnc,2026-11-05,32943,37
-port:6379:redis,2026-11-05,69,24
-port:9200:elasticsearch,2026-11-05,203,35
+port:1433:mssql,2026-11-05,466,75
+port:2375:docker,2026-11-05,28,6
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-05,2,0
+port:3306:mysql,2026-11-05,2038,27
+port:5555:adb,2026-11-05,140,13
+port:5555:adb:adb file upload,2026-11-05,6,2
+port:5555:adb:adb shell command,2026-11-05,34,4
+port:5555:adb:miner via adb shell,2026-11-05,4,1
+port:5900:vnc,2026-11-05,65886,37
+port:6379:redis,2026-11-05,138,24
+port:9200:elasticsearch,2026-11-05,406,35
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-05,3,0
 probe:ssh:16443846184eafde36765c9bab2f4397,2026-11-05,1,0
 probe:ssh:1a245d09c5a76f322fc780cbdd9e02ff,2026-11-05,1,0
@@ -5672,19 +5672,19 @@ mcp:notifications/initialized,2026-11-06,5,3
 mcp:prompts/list,2026-11-06,2,2
 mcp:resources/list,2026-11-06,2,2
 mcp:tools/list,2026-11-06,5,4
-port:1433:mssql,2026-11-06,233,47
-port:2375:docker,2026-11-06,79,8
-port:2375:docker:container create,2026-11-06,1,0
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-06,1,0
-port:3306:mysql,2026-11-06,1200,31
-port:5555:adb,2026-11-06,187,25
-port:5555:adb:adb file upload,2026-11-06,3,1
-port:5555:adb:adb shell command,2026-11-06,19,2
-port:5555:adb:miner via adb shell,2026-11-06,2,0
-port:5900:vnc,2026-11-06,21578,31
-port:6379:redis,2026-11-06,128,26
-port:6379:redis:cron write via CONFIG SET,2026-11-06,1,1
-port:9200:elasticsearch,2026-11-06,182,31
+port:1433:mssql,2026-11-06,466,47
+port:2375:docker,2026-11-06,158,8
+port:2375:docker:container create,2026-11-06,2,0
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-06,2,0
+port:3306:mysql,2026-11-06,2400,31
+port:5555:adb,2026-11-06,374,25
+port:5555:adb:adb file upload,2026-11-06,6,1
+port:5555:adb:adb shell command,2026-11-06,38,2
+port:5555:adb:miner via adb shell,2026-11-06,4,0
+port:5900:vnc,2026-11-06,43156,31
+port:6379:redis,2026-11-06,256,26
+port:6379:redis:cron write via CONFIG SET,2026-11-06,2,1
+port:9200:elasticsearch,2026-11-06,364,31
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-06,9,1
 probe:ssh:16443846184eafde36765c9bab2f4397,2026-11-06,1,1
 probe:ssh:1a245d09c5a76f322fc780cbdd9e02ff,2026-11-06,1,0
@@ -5932,16 +5932,16 @@ mcp:notifications/initialized,2026-11-07,4,3
 mcp:prompts/list,2026-11-07,2,2
 mcp:resources/list,2026-11-07,2,2
 mcp:tools/list,2026-11-07,4,3
-port:1433:mssql,2026-11-07,5051,44
-port:2375:docker,2026-11-07,32,11
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-07,1,1
-port:3306:mysql,2026-11-07,890,25
-port:5555:adb,2026-11-07,54,17
-port:5555:adb:adb file upload,2026-11-07,1,1
-port:5555:adb:adb shell command,2026-11-07,5,1
-port:5900:vnc,2026-11-07,8494,33
-port:6379:redis,2026-11-07,143,36
-port:9200:elasticsearch,2026-11-07,87,22
+port:1433:mssql,2026-11-07,10102,44
+port:2375:docker,2026-11-07,64,11
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-07,2,1
+port:3306:mysql,2026-11-07,1780,25
+port:5555:adb,2026-11-07,108,17
+port:5555:adb:adb file upload,2026-11-07,2,1
+port:5555:adb:adb shell command,2026-11-07,10,1
+port:5900:vnc,2026-11-07,16988,33
+port:6379:redis,2026-11-07,286,36
+port:9200:elasticsearch,2026-11-07,174,22
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-07,7,3
 probe:ssh:0a07365cc01fa9fc82608ba4019af499,2026-11-07,1,0
 probe:ssh:1a245d09c5a76f322fc780cbdd9e02ff,2026-11-07,1,0
@@ -6194,19 +6194,19 @@ mcp:notifications/initialized,2026-11-08,6,4
 mcp:prompts/list,2026-11-08,2,2
 mcp:resources/list,2026-11-08,2,2
 mcp:tools/list,2026-11-08,6,4
-port:1433:mssql,2026-11-08,1575,74
-port:2375:docker,2026-11-08,92,12
-port:2375:docker:container create,2026-11-08,2,2
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-08,1,1
-port:3306:mysql,2026-11-08,414,29
-port:5555:adb,2026-11-08,78,21
-port:5555:adb:adb file upload,2026-11-08,2,2
-port:5555:adb:adb shell command,2026-11-08,12,2
-port:5555:adb:miner via adb shell,2026-11-08,1,1
-port:5900:vnc,2026-11-08,35085,19
-port:6379:redis,2026-11-08,168,36
-port:6379:redis:ssh key write via CONFIG SET,2026-11-08,2,2
-port:9200:elasticsearch,2026-11-08,129,29
+port:1433:mssql,2026-11-08,3150,74
+port:2375:docker,2026-11-08,184,12
+port:2375:docker:container create,2026-11-08,4,2
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-08,2,1
+port:3306:mysql,2026-11-08,828,29
+port:5555:adb,2026-11-08,156,21
+port:5555:adb:adb file upload,2026-11-08,4,2
+port:5555:adb:adb shell command,2026-11-08,24,2
+port:5555:adb:miner via adb shell,2026-11-08,2,1
+port:5900:vnc,2026-11-08,70170,19
+port:6379:redis,2026-11-08,336,36
+port:6379:redis:ssh key write via CONFIG SET,2026-11-08,4,2
+port:9200:elasticsearch,2026-11-08,258,29
 probe:ssh:05a21521f54217dd5cda6bbb284acb01,2026-11-08,1,1
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-08,4,1
 probe:ssh:0a07365cc01fa9fc82608ba4019af499,2026-11-08,6,0
@@ -6395,19 +6395,19 @@ mcp:notifications/initialized,2026-11-09,4,2
 mcp:prompts/list,2026-11-09,2,2
 mcp:resources/list,2026-11-09,2,1
 mcp:tools/list,2026-11-09,4,2
-port:1433:mssql,2026-11-09,1488,31
-port:2375:docker,2026-11-09,20,7
-port:3306:mysql,2026-11-09,784,29
-port:5555:adb,2026-11-09,234,20
-port:5555:adb:adb file upload,2026-11-09,18,2
-port:5555:adb:adb shell command,2026-11-09,85,2
-port:5555:adb:miner via adb shell,2026-11-09,1,0
-port:5900:vnc,2026-11-09,35159,21
-port:6379:redis,2026-11-09,148,24
-port:6379:redis:lua eval,2026-11-09,1,1
-port:6379:redis:module load,2026-11-09,1,1
-port:6379:redis:ssh key write via CONFIG SET,2026-11-09,1,1
-port:9200:elasticsearch,2026-11-09,66,28
+port:1433:mssql,2026-11-09,2976,31
+port:2375:docker,2026-11-09,40,7
+port:3306:mysql,2026-11-09,1568,29
+port:5555:adb,2026-11-09,468,20
+port:5555:adb:adb file upload,2026-11-09,36,2
+port:5555:adb:adb shell command,2026-11-09,170,2
+port:5555:adb:miner via adb shell,2026-11-09,2,0
+port:5900:vnc,2026-11-09,70318,21
+port:6379:redis,2026-11-09,296,24
+port:6379:redis:lua eval,2026-11-09,2,1
+port:6379:redis:module load,2026-11-09,2,1
+port:6379:redis:ssh key write via CONFIG SET,2026-11-09,2,1
+port:9200:elasticsearch,2026-11-09,132,28
 probe:ssh:05a21521f54217dd5cda6bbb284acb01,2026-11-09,1,1
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-09,7,5
 probe:ssh:0a07365cc01fa9fc82608ba4019af499,2026-11-09,1,0
@@ -6654,20 +6654,20 @@ mcp:notifications/initialized,2026-11-10,5,4
 mcp:prompts/list,2026-11-10,2,1
 mcp:resources/list,2026-11-10,2,2
 mcp:tools/list,2026-11-10,5,4
-port:1433:mssql,2026-11-10,1497,58
-port:2375:docker,2026-11-10,188,12
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-10,1,1
-port:3306:mysql,2026-11-10,1367,28
-port:5555:adb,2026-11-10,304,21
-port:5555:adb:adb file upload,2026-11-10,23,1
-port:5555:adb:adb shell command,2026-11-10,99,3
-port:5555:adb:miner via adb shell,2026-11-10,21,0
-port:5900:vnc,2026-11-10,36711,23
-port:6379:redis,2026-11-10,268,18
-port:6379:redis:lua eval,2026-11-10,6,1
-port:6379:redis:module load,2026-11-10,22,1
-port:6379:redis:rogue master replication,2026-11-10,9,1
-port:9200:elasticsearch,2026-11-10,233,42
+port:1433:mssql,2026-11-10,2994,58
+port:2375:docker,2026-11-10,376,12
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-10,2,1
+port:3306:mysql,2026-11-10,2734,28
+port:5555:adb,2026-11-10,608,21
+port:5555:adb:adb file upload,2026-11-10,46,1
+port:5555:adb:adb shell command,2026-11-10,198,3
+port:5555:adb:miner via adb shell,2026-11-10,42,0
+port:5900:vnc,2026-11-10,73422,23
+port:6379:redis,2026-11-10,536,18
+port:6379:redis:lua eval,2026-11-10,12,1
+port:6379:redis:module load,2026-11-10,44,1
+port:6379:redis:rogue master replication,2026-11-10,18,1
+port:9200:elasticsearch,2026-11-10,466,42
 probe:ssh:03a80b21afa810682a776a7d42e5e6fb,2026-11-10,1,1
 probe:ssh:05a21521f54217dd5cda6bbb284acb01,2026-11-10,1,1
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-10,5,4
@@ -6973,23 +6973,23 @@ mcp:notifications/initialized,2026-11-11,4,3
 mcp:prompts/list,2026-11-11,2,2
 mcp:resources/list,2026-11-11,2,2
 mcp:tools/list,2026-11-11,4,3
-port:1433:mssql,2026-11-11,1117,64
-port:2375:docker,2026-11-11,238,13
-port:2375:docker:exec into container,2026-11-11,2,1
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-11,3,1
-port:2375:docker:image pull,2026-11-11,2,2
-port:2375:docker:miner container,2026-11-11,1,1
-port:3306:mysql,2026-11-11,1260,29
-port:5555:adb,2026-11-11,268,16
-port:5555:adb:adb file upload,2026-11-11,26,1
-port:5555:adb:adb shell command,2026-11-11,105,3
-port:5555:adb:miner via adb shell,2026-11-11,24,0
-port:5900:vnc,2026-11-11,37932,122
-port:6379:redis,2026-11-11,287,22
-port:6379:redis:cron write via CONFIG SET,2026-11-11,9,2
-port:6379:redis:module load,2026-11-11,2,0
-port:6379:redis:ssh key write via CONFIG SET,2026-11-11,4,2
-port:9200:elasticsearch,2026-11-11,339,36
+port:1433:mssql,2026-11-11,2234,64
+port:2375:docker,2026-11-11,476,13
+port:2375:docker:exec into container,2026-11-11,4,1
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-11,6,1
+port:2375:docker:image pull,2026-11-11,4,2
+port:2375:docker:miner container,2026-11-11,2,1
+port:3306:mysql,2026-11-11,2520,29
+port:5555:adb,2026-11-11,536,16
+port:5555:adb:adb file upload,2026-11-11,52,1
+port:5555:adb:adb shell command,2026-11-11,210,3
+port:5555:adb:miner via adb shell,2026-11-11,48,0
+port:5900:vnc,2026-11-11,75864,122
+port:6379:redis,2026-11-11,574,22
+port:6379:redis:cron write via CONFIG SET,2026-11-11,18,2
+port:6379:redis:module load,2026-11-11,4,0
+port:6379:redis:ssh key write via CONFIG SET,2026-11-11,8,2
+port:9200:elasticsearch,2026-11-11,678,36
 probe:ssh:01ca35584ad5a1b66cf6a9846b5b2821,2026-11-11,7,1
 probe:ssh:03a80b21afa810682a776a7d42e5e6fb,2026-11-11,2,1
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-11,6,2
@@ -7321,25 +7321,25 @@ mcp:notifications/initialized,2026-11-12,4,3
 mcp:prompts/list,2026-11-12,2,2
 mcp:resources/list,2026-11-12,2,2
 mcp:tools/list,2026-11-12,4,3
-port:1433:mssql,2026-11-12,1361,32
-port:2375:docker,2026-11-12,159,20
-port:2375:docker:container create,2026-11-12,1,1
-port:2375:docker:exec into container,2026-11-12,2,1
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-12,3,1
-port:2375:docker:image pull,2026-11-12,5,3
-port:2375:docker:miner container,2026-11-12,2,1
-port:3306:mysql,2026-11-12,1566,29
-port:5555:adb,2026-11-12,108,14
-port:5555:adb:adb file upload,2026-11-12,10,1
-port:5555:adb:adb shell command,2026-11-12,37,1
-port:5555:adb:miner via adb shell,2026-11-12,9,0
-port:5900:vnc,2026-11-12,30691,129
-port:6379:redis,2026-11-12,178,26
-port:6379:redis:cron write via CONFIG SET,2026-11-12,2,1
-port:6379:redis:lua eval,2026-11-12,1,1
-port:6379:redis:module load,2026-11-12,2,2
-port:6379:redis:ssh key write via CONFIG SET,2026-11-12,1,1
-port:9200:elasticsearch,2026-11-12,142,35
+port:1433:mssql,2026-11-12,2722,32
+port:2375:docker,2026-11-12,318,20
+port:2375:docker:container create,2026-11-12,2,1
+port:2375:docker:exec into container,2026-11-12,4,1
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-12,6,1
+port:2375:docker:image pull,2026-11-12,10,3
+port:2375:docker:miner container,2026-11-12,4,1
+port:3306:mysql,2026-11-12,3132,29
+port:5555:adb,2026-11-12,216,14
+port:5555:adb:adb file upload,2026-11-12,20,1
+port:5555:adb:adb shell command,2026-11-12,74,1
+port:5555:adb:miner via adb shell,2026-11-12,18,0
+port:5900:vnc,2026-11-12,61382,129
+port:6379:redis,2026-11-12,356,26
+port:6379:redis:cron write via CONFIG SET,2026-11-12,4,1
+port:6379:redis:lua eval,2026-11-12,2,1
+port:6379:redis:module load,2026-11-12,4,2
+port:6379:redis:ssh key write via CONFIG SET,2026-11-12,2,1
+port:9200:elasticsearch,2026-11-12,284,35
 probe:ssh:03a80b21afa810682a776a7d42e5e6fb,2026-11-12,8,0
 probe:ssh:05a21521f54217dd5cda6bbb284acb01,2026-11-12,1,1
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-12,9,4
@@ -7657,20 +7657,20 @@ mcp:notifications/initialized,2026-11-13,4,3
 mcp:prompts/list,2026-11-13,2,2
 mcp:resources/list,2026-11-13,2,2
 mcp:tools/list,2026-11-13,4,3
-port:1433:mssql,2026-11-13,1146,62
-port:2375:docker,2026-11-13,84,9
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-13,1,1
-port:2375:docker:image pull,2026-11-13,2,1
-port:2375:docker:miner container,2026-11-13,1,0
-port:3306:mysql,2026-11-13,1219,18
-port:5555:adb,2026-11-13,93,14
-port:5555:adb:adb file upload,2026-11-13,3,1
-port:5555:adb:adb shell command,2026-11-13,15,2
-port:5555:adb:miner via adb shell,2026-11-13,2,0
-port:5900:vnc,2026-11-13,37785,99
-port:6379:redis,2026-11-13,67,14
-port:6379:redis:ssh key write via CONFIG SET,2026-11-13,3,1
-port:9200:elasticsearch,2026-11-13,162,30
+port:1433:mssql,2026-11-13,2292,62
+port:2375:docker,2026-11-13,168,9
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-13,2,1
+port:2375:docker:image pull,2026-11-13,4,1
+port:2375:docker:miner container,2026-11-13,2,0
+port:3306:mysql,2026-11-13,2438,18
+port:5555:adb,2026-11-13,186,14
+port:5555:adb:adb file upload,2026-11-13,6,1
+port:5555:adb:adb shell command,2026-11-13,30,2
+port:5555:adb:miner via adb shell,2026-11-13,4,0
+port:5900:vnc,2026-11-13,75570,99
+port:6379:redis,2026-11-13,134,14
+port:6379:redis:ssh key write via CONFIG SET,2026-11-13,6,1
+port:9200:elasticsearch,2026-11-13,324,30
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-13,6,3
 probe:ssh:0a07365cc01fa9fc82608ba4019af499,2026-11-13,1,0
 probe:ssh:2aec6b44b06bec95d73f66b5d30cb69a,2026-11-13,1,1
@@ -7910,18 +7910,18 @@ mcp:notifications/initialized,2026-11-14,4,3
 mcp:prompts/list,2026-11-14,2,2
 mcp:resources/list,2026-11-14,2,2
 mcp:tools/list,2026-11-14,4,3
-port:1433:mssql,2026-11-14,1336,29
-port:2375:docker,2026-11-14,382,8
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-14,15,1
-port:2375:docker:image pull,2026-11-14,2,0
-port:2375:docker:miner container,2026-11-14,2,0
-port:3306:mysql,2026-11-14,1238,24
-port:5555:adb,2026-11-14,105,22
-port:5555:adb:adb file upload,2026-11-14,3,2
-port:5555:adb:adb shell command,2026-11-14,1,1
-port:5900:vnc,2026-11-14,34692,49
-port:6379:redis,2026-11-14,92,20
-port:9200:elasticsearch,2026-11-14,224,33
+port:1433:mssql,2026-11-14,2672,29
+port:2375:docker,2026-11-14,764,8
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-14,30,1
+port:2375:docker:image pull,2026-11-14,4,0
+port:2375:docker:miner container,2026-11-14,4,0
+port:3306:mysql,2026-11-14,2476,24
+port:5555:adb,2026-11-14,210,22
+port:5555:adb:adb file upload,2026-11-14,6,2
+port:5555:adb:adb shell command,2026-11-14,2,1
+port:5900:vnc,2026-11-14,69385,49
+port:6379:redis,2026-11-14,184,20
+port:9200:elasticsearch,2026-11-14,448,33
 probe:ssh:03a80b21afa810682a776a7d42e5e6fb,2026-11-14,2,2
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-14,4,1
 probe:ssh:3c0eaacec19ba322a90a5541dac09a06,2026-11-14,1,1
@@ -8098,19 +8098,19 @@ mcp:notifications/initialized,2026-11-15,6,2
 mcp:prompts/list,2026-11-15,2,2
 mcp:resources/list,2026-11-15,2,2
 mcp:tools/list,2026-11-15,6,3
-port:1433:mssql,2026-11-15,163,23
-port:2375:docker,2026-11-15,267,15
-port:2375:docker:container create,2026-11-15,1,1
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-15,1,1
-port:2375:docker:image pull,2026-11-15,6,1
-port:2375:docker:miner container,2026-11-15,5,0
-port:3306:mysql,2026-11-15,1417,26
-port:5555:adb,2026-11-15,66,17
-port:5555:adb:adb file upload,2026-11-15,1,1
-port:5555:adb:adb shell command,2026-11-15,8,4
-port:5900:vnc,2026-11-15,33171,152
-port:6379:redis,2026-11-15,105,17
-port:9200:elasticsearch,2026-11-15,286,28
+port:1433:mssql,2026-11-15,326,23
+port:2375:docker,2026-11-15,534,15
+port:2375:docker:container create,2026-11-15,2,1
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-15,2,1
+port:2375:docker:image pull,2026-11-15,12,1
+port:2375:docker:miner container,2026-11-15,10,0
+port:3306:mysql,2026-11-15,2834,26
+port:5555:adb,2026-11-15,132,17
+port:5555:adb:adb file upload,2026-11-15,2,1
+port:5555:adb:adb shell command,2026-11-15,16,4
+port:5900:vnc,2026-11-15,66342,152
+port:6379:redis,2026-11-15,210,17
+port:9200:elasticsearch,2026-11-15,572,28
 probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-15,7,3
 probe:ssh:16443846184eafde36765c9bab2f4397,2026-11-15,1,1
 probe:ssh:2aec6b44b06bec95d73f66b5d30cb69a,2026-11-15,1,1
@@ -8162,95 +8162,194 @@ proxy:socks:http,2026-11-15,10,5
 proxy:socks:none,2026-11-15,13,6
 proxy:socks:raw,2026-11-15,6,0
 smtp:inbound,2026-11-15,36,13
-auth:ssh:03a80b21afa810682a776a7d42e5e6fb,2026-11-16,1,0
-auth:ssh:14b2ddda386a4d1006108ccd231b42fc,2026-11-16,3,0
-auth:ssh:16443846184eafde36765c9bab2f4397,2026-11-16,2,0
+auth:ssh:03a80b21afa810682a776a7d42e5e6fb,2026-11-16,5,0
+auth:ssh:0a07365cc01fa9fc82608ba4019af499,2026-11-16,553,0
+auth:ssh:14b2ddda386a4d1006108ccd231b42fc,2026-11-16,11,0
+auth:ssh:16443846184eafde36765c9bab2f4397,2026-11-16,9,0
 auth:ssh:19532158b559096b89b1a5f7d17175b2,2026-11-16,1,0
 auth:ssh:1f2f2f9b0a736952f743e5490c64c98a,2026-11-16,1,0
-auth:ssh:2ec37a7cc8daf20b10e1ad6221061ca5,2026-11-16,3,0
-auth:ssh:3356ae6145fa86124298066e281ea2d9,2026-11-16,14,0
-auth:ssh:7d01d047ace68f3151ea773e1e0d4838,2026-11-16,23,0
-auth:ssh:831689b95069cfeff67856e98714aafd,2026-11-16,7,0
-auth:ssh:a289c065bf37397b69226bd770e33124,2026-11-16,2,0
-auth:ssh:acaa53e0a7d7ac7d1255103f37901306,2026-11-16,27,12
-auth:ssh:b714b2c1d0e1239c988bdf7d37ade2a5,2026-11-16,1070,0
-auth:ssh:dde267e50f82fcc16a7e1e7b59b8af71,2026-11-16,1,1
+auth:ssh:2ec37a7cc8daf20b10e1ad6221061ca5,2026-11-16,73,0
+auth:ssh:3356ae6145fa86124298066e281ea2d9,2026-11-16,51,0
+auth:ssh:39810c8bc443678b01c3b856ad168ba9,2026-11-16,1,1
+auth:ssh:46a2ae5b447a73d9fbe6516e4b25976e,2026-11-16,4,4
+auth:ssh:742ee33575d0ff88acd63dcc5529bb46,2026-11-16,1,0
+auth:ssh:7d01d047ace68f3151ea773e1e0d4838,2026-11-16,83,0
+auth:ssh:831689b95069cfeff67856e98714aafd,2026-11-16,33,0
+auth:ssh:98f63c4d9c87edbd97ed4747fa031019,2026-11-16,1,1
+auth:ssh:a289c065bf37397b69226bd770e33124,2026-11-16,6,0
+auth:ssh:acaa53e0a7d7ac7d1255103f37901306,2026-11-16,160,66
+auth:ssh:b714b2c1d0e1239c988bdf7d37ade2a5,2026-11-16,3570,0
+auth:ssh:dde267e50f82fcc16a7e1e7b59b8af71,2026-11-16,3,3
+auth:ssh:ec7378c1a92f5a8dde7e8b7a1ddf33d1,2026-11-16,2,1
 auth:ssh:f1e5e9d24e5e345e8745613bde22d532,2026-11-16,3,0
-auth:ssh:f555226df1963d1d3c09daf865abdc9a,2026-11-16,62,8
+auth:ssh:f555226df1963d1d3c09daf865abdc9a,2026-11-16,253,10
+auth:ssh:family-345gs,2026-11-16,5,0
 auth:telnet:unknown,2026-11-16,182,9
+cmd:00de483305d2d07d,2026-11-16,1,1
+cmd:01bdedbc2a1778d9,2026-11-16,1,1
+cmd:03d5ee6910ef9538,2026-11-16,1,1
 cmd:04946faa9e9e44cd,2026-11-16,1,1
+cmd:051b171909204cd8,2026-11-16,1,1
+cmd:05afcbca8406dc8d,2026-11-16,1,1
 cmd:05f774cf208c2824,2026-11-16,7,2
 cmd:069b9b3b540f08c2,2026-11-16,1,1
+cmd:06e9e02243f03f72,2026-11-16,1,1
+cmd:08d0c50d2d5369dc,2026-11-16,1,1
 cmd:093cf1c7a3081723,2026-11-16,2,2
+cmd:0a33cfad650cbaa8,2026-11-16,1,1
 cmd:0b4766b1baf7bd0f,2026-11-16,1,1
+cmd:0b594c1556a03d37,2026-11-16,1,1
 cmd:0c18d8f24229a625,2026-11-16,1,1
+cmd:0d8b8ccd1f1e198f,2026-11-16,1,1
 cmd:0dc3c4c03e778309,2026-11-16,1,1
-cmd:0fa0222d41804456,2026-11-16,32,7
+cmd:0e2202691d73c5cd,2026-11-16,1,1
+cmd:0fa0222d41804456,2026-11-16,78,12
 cmd:107f0c89ae04ec38,2026-11-16,1,1
+cmd:10c718848decb1c6,2026-11-16,1,1
 cmd:10d399d962407a15,2026-11-16,1,1
 cmd:110bd2d13615ca0f,2026-11-16,1,1
 cmd:13cb8ab4078a65d1,2026-11-16,1,1
 cmd:14f83e62e7b12a4d,2026-11-16,1,1
 cmd:176883bf6690d04f,2026-11-16,1,1
 cmd:17939eaca1efcc61,2026-11-16,1,1
+cmd:17d98e9d4e841083,2026-11-16,1,1
 cmd:1959330fcdfc0134,2026-11-16,1,1
 cmd:1a88218aa4021cc2,2026-11-16,2,0
+cmd:1b0328fbdbabd532,2026-11-16,1,1
+cmd:1d827c0d07d5fc3b,2026-11-16,1,1
+cmd:1e72ff91a7f1b46d,2026-11-16,1,1
+cmd:201477195ed68044,2026-11-16,1,1
 cmd:20228edcce195299,2026-11-16,6,6
+cmd:2145cff9a8f4276a,2026-11-16,1,1
 cmd:215b090d3d6cde6c,2026-11-16,1,1
+cmd:252daea6a2fc45b6,2026-11-16,1,1
+cmd:26202a3fbb125b73,2026-11-16,2,0
 cmd:28ba533b0f3c4df6,2026-11-16,1,1
 cmd:28c687ad4186620f,2026-11-16,1,1
+cmd:295be4eb4b73f52d,2026-11-16,1,1
+cmd:2987b7bbb0da12aa,2026-11-16,1,1
 cmd:2a4a2bc93090f544,2026-11-16,1,1
 cmd:2ab00b5a1e5d9bae,2026-11-16,1,1
 cmd:2d9ca2e84320a0e3,2026-11-16,1,1
+cmd:326c9a2000335983,2026-11-16,1,1
+cmd:330bd02762f21408,2026-11-16,1,1
+cmd:3332dc9cd6d83dbf,2026-11-16,1,1
+cmd:355b234564b00948,2026-11-16,1,1
+cmd:35d01a82275d40c1,2026-11-16,1,1
+cmd:3768bd3e399912fd,2026-11-16,1,1
+cmd:387cdf73a38b0a3d,2026-11-16,1,1
 cmd:39317ac4613d2aaa,2026-11-16,1,1
+cmd:394c2c12fcdb4d08,2026-11-16,1,1
+cmd:3aacf5e9f06603c2,2026-11-16,1,1
+cmd:3bd798265d3ffb9c,2026-11-16,1,1
+cmd:3f72e2ac6b300302,2026-11-16,1,1
 cmd:3fe199742cedef46,2026-11-16,1,0
 cmd:427dbb4f3d9c9ca3,2026-11-16,1,1
 cmd:438a293720824532,2026-11-16,1,1
+cmd:43af47e4d31fa20d,2026-11-16,1,1
 cmd:46159868cff2a26d,2026-11-16,1,1
+cmd:4972ef549fd5a3c7,2026-11-16,1,1
 cmd:4a3ecb079bccf3a9,2026-11-16,1,1
 cmd:4b454f1b9d5f0e0d,2026-11-16,1,1
+cmd:4e4721759fc45d14,2026-11-16,1,1
+cmd:5135912a18cbd8db,2026-11-16,1,1
 cmd:51a00b998651d1a6,2026-11-16,1,1
+cmd:51c13aea356a6fdd,2026-11-16,1,1
+cmd:5419e567ff4bdb3a,2026-11-16,1,1
+cmd:5586a497278e7cb9,2026-11-16,1,1
+cmd:55d2fb842f600a1b,2026-11-16,1,1
 cmd:572fed7c72f90164,2026-11-16,1,1
 cmd:589d0f0b4fa4b43c,2026-11-16,1,1
+cmd:5a54ab84c6f11e46,2026-11-16,1,1
 cmd:5bfc118440c1b282,2026-11-16,1,1
+cmd:6124d86d390f155b,2026-11-16,1,1
 cmd:61912bcbd56c9b64,2026-11-16,3,1
+cmd:62b157c005d3020c,2026-11-16,1,1
 cmd:657e78319b977c4e,2026-11-16,1,1
 cmd:65e1139608973310,2026-11-16,1,1
 cmd:663d6789bf3ba4e2,2026-11-16,3,3
 cmd:6873a7c3ef7ff4f2,2026-11-16,1,1
+cmd:69ad8df6b915a59e,2026-11-16,1,1
+cmd:6a1848cfd2db7417,2026-11-16,1,1
+cmd:6a299774a3243ac9,2026-11-16,1,1
+cmd:6c37f6d66e9043c8,2026-11-16,1,1
+cmd:6c75af34753432ba,2026-11-16,1,1
+cmd:6c83075c8549f76d,2026-11-16,1,1
 cmd:6ceaa6a8a5caf726,2026-11-16,1,1
+cmd:6d9c42cec8de754a,2026-11-16,1,1
+cmd:6e3bd8060abf29c3,2026-11-16,1,1
 cmd:6f7a0b3ccd3b5b3c,2026-11-16,1,1
+cmd:6fa4c8ac58e7a1d9,2026-11-16,2,2
+cmd:6fec57b13445848f,2026-11-16,1,1
 cmd:7057a85335ab3f5c,2026-11-16,1,1
+cmd:70c546299bf9d39d,2026-11-16,1,1
+cmd:710fb208e47fb7c0,2026-11-16,1,1
+cmd:7200054ef0517dc2,2026-11-16,1,1
 cmd:74f494c70ff0d24f,2026-11-16,1,0
+cmd:7653110a9cef7285,2026-11-16,1,1
 cmd:77678f3edd2b04cf,2026-11-16,1,1
-cmd:7ab552f01de999cb,2026-11-16,399,0
+cmd:7995f12619d04283,2026-11-16,1,1
+cmd:7ab552f01de999cb,2026-11-16,761,0
 cmd:7b17e665129125fc,2026-11-16,1,1
 cmd:7bba97f2879a795b,2026-11-16,1,1
 cmd:7ea355126d91348b,2026-11-16,60,0
+cmd:7f9322e331d26916,2026-11-16,1,1
+cmd:7fa05880edada369,2026-11-16,1,1
+cmd:8097421dca1b6abb,2026-11-16,1,1
 cmd:81b7bcdb954fa6f7,2026-11-16,1,1
+cmd:827cd28131df7de4,2026-11-16,1,1
 cmd:83c2b7dc9b508adf,2026-11-16,1,1
+cmd:83ff50b5ce8e43ad,2026-11-16,1,1
 cmd:85ed9294ba553200,2026-11-16,1,1
+cmd:85f627a1184ba0ff,2026-11-16,1,1
 cmd:8aa142ec6a271f5d,2026-11-16,3,1
 cmd:8afcd508ed4f3675,2026-11-16,1,1
 cmd:8b5fb88850f0bf22,2026-11-16,5,3
 cmd:8bcddcabaf59317d,2026-11-16,1,1
+cmd:8f47375c6da43468,2026-11-16,1,1
+cmd:8fc447f85dd1a87f,2026-11-16,1,1
+cmd:907ddecb7ba83696,2026-11-16,1,1
+cmd:90f56c601e579627,2026-11-16,1,1
+cmd:918718ca7a424c0d,2026-11-16,1,1
+cmd:91b75862339a7625,2026-11-16,1,1
+cmd:92ef8fbad0943933,2026-11-16,1,1
 cmd:932dabd43de42500,2026-11-16,1,1
 cmd:9352394e9319a86b,2026-11-16,1,1
+cmd:944d5773dbeed9ee,2026-11-16,1,1
+cmd:9465c53d0cbaa019,2026-11-16,1,1
+cmd:94c62cc8598400ce,2026-11-16,1,1
 cmd:9553de09a8eebe1b,2026-11-16,1,1
 cmd:95a40966543d065b,2026-11-16,1,1
 cmd:962b655eb75214db,2026-11-16,1,1
-cmd:96611393ff07da35,2026-11-16,3,0
+cmd:96611393ff07da35,2026-11-16,4,0
+cmd:9aa81a972e7f2a83,2026-11-16,1,1
 cmd:9b48270afa3dfc5c,2026-11-16,1,1
 cmd:9c854625f0b7893f,2026-11-16,1,1
 cmd:9e88e5506a5a2ed8,2026-11-16,1,1
+cmd:9f5398c97b4a42a8,2026-11-16,1,1
 cmd:a00574b248a5f6c8,2026-11-16,1,1
+cmd:a22f46e5633d3cce,2026-11-16,1,1
 cmd:a3d3d417e46fb10f,2026-11-16,1,1
 cmd:a690e20dfa319697,2026-11-16,1,1
+cmd:a6b2247785f106bb,2026-11-16,1,1
 cmd:a71505b296f3eb11,2026-11-16,1,1
 cmd:a8541c8be5925d12,2026-11-16,1,1
+cmd:a8a67395864ca447,2026-11-16,1,1
+cmd:a8cf4ccff61b9566,2026-11-16,1,1
 cmd:a8d2d033eb654379,2026-11-16,1,1
+cmd:a8f644826942bd2d,2026-11-16,1,1
+cmd:a9032e5315e8a3d4,2026-11-16,1,1
+cmd:a9a942a31a6b5d53,2026-11-16,1,1
+cmd:aae386312407a0f7,2026-11-16,1,1
+cmd:acd2fbe2b4af9565,2026-11-16,1,1
+cmd:afdc7ed5ec172d1f,2026-11-16,1,1
+cmd:b01bb0954b438703,2026-11-16,1,1
+cmd:b03d57c8307fe568,2026-11-16,1,1
 cmd:b1772a2ab700f0f2,2026-11-16,1,1
+cmd:b1a2aa563bd3e76b,2026-11-16,1,1
+cmd:b248d68f6dd22203,2026-11-16,1,1
 cmd:b28cf0bbf813dd34,2026-11-16,1,1
+cmd:b423085ac973c49d,2026-11-16,1,1
 cmd:b58c2bb4d3255830,2026-11-16,1,1
 cmd:b5fa66c0d5f58bb3,2026-11-16,1,1
 cmd:b6b4e8bd1807d35d,2026-11-16,1,1
@@ -8259,29 +8358,54 @@ cmd:b8f3812e6b9d4f49,2026-11-16,1,1
 cmd:b91134b2ac673111,2026-11-16,1,1
 cmd:bfb5a2121d53a50e,2026-11-16,1,1
 cmd:c226c7e3be780e8b,2026-11-16,1,1
+cmd:c22818c5e8cf270d,2026-11-16,1,0
+cmd:c2d5a11ab3b1d95f,2026-11-16,1,1
+cmd:c6f45ed2a450b82c,2026-11-16,1,1
 cmd:c76aab0263b58221,2026-11-16,2,0
 cmd:c904085ed3570181,2026-11-16,1,1
+cmd:c9c6fd0dc865e38a,2026-11-16,1,1
+cmd:c9d08fdf00306f80,2026-11-16,1,1
 cmd:ca4685d78eddc649,2026-11-16,1,1
+cmd:caa1a8e157a5b34f,2026-11-16,1,1
+cmd:cc0696d3453e83e1,2026-11-16,1,1
+cmd:cdd80a27865fbafb,2026-11-16,1,1
+cmd:d2ed278b0b59f357,2026-11-16,1,1
+cmd:d46110be5680add7,2026-11-16,1,1
+cmd:d5f95d43cbe5b31f,2026-11-16,1,1
 cmd:d85aa24400d32b41,2026-11-16,1,1
 cmd:da588c852341e1ab,2026-11-16,1,1
+cmd:db74e24febeb859b,2026-11-16,1,1
 cmd:dc2ec72ce532180f,2026-11-16,1,1
 cmd:dc96acfed4aef67a,2026-11-16,1,1
+cmd:de9d22de4b70a2bd,2026-11-16,1,1
+cmd:df0a7b5b1f4efcab,2026-11-16,1,1
 cmd:e0926724d24b3024,2026-11-16,1,1
 cmd:e1a81d33defd6eee,2026-11-16,1,1
 cmd:e1e03963d6a72476,2026-11-16,1,1
 cmd:e3b0c44298fc1c14,2026-11-16,27,1
 cmd:e53eacf6e08c67a9,2026-11-16,1,1
+cmd:e87bea49761d3d70,2026-11-16,1,1
+cmd:e888131286f85734,2026-11-16,1,1
 cmd:e892e53e51839ebf,2026-11-16,1,1
+cmd:ea82fe82924bbdcd,2026-11-16,2,1
+cmd:ec624fc0116a5d11,2026-11-16,1,1
 cmd:ed7cfce543c260a7,2026-11-16,9,3
 cmd:ed9befc3d4784bb3,2026-11-16,1,1
+cmd:edcdcb7bb7e56288,2026-11-16,1,1
+cmd:f01beeb8d53fd890,2026-11-16,1,1
+cmd:f02abda0f5453153,2026-11-16,1,1
 cmd:f0a47a4a22aee466,2026-11-16,1,1
 cmd:f10b18816ce92fbf,2026-11-16,1,1
 cmd:f1fe9d6a7318579d,2026-11-16,1,1
+cmd:f24130688609c77f,2026-11-16,1,1
 cmd:f59077fcb41f942c,2026-11-16,2,2
+cmd:f8e25d2d5105c7f2,2026-11-16,1,1
 cmd:f951aa0375518217,2026-11-16,1,1
+cmd:f9e28b5d3bbf7835,2026-11-16,1,1
 cmd:fc2828103c612c2b,2026-11-16,1,1
 cmd:fd9e4c65061cff53,2026-11-16,1,1
 cmd:fe5ecffa580e2071,2026-11-16,1,1
+cmd:ffc1d4a1b63beb5a,2026-11-16,1,1
 http:backup-hunt,2026-11-16,320,22
 http:container-api,2026-11-16,34,11
 http:debug-pages,2026-11-16,1139,22
@@ -8299,33 +8423,74 @@ mcp:notifications/initialized,2026-11-16,5,3
 mcp:prompts/list,2026-11-16,2,2
 mcp:resources/list,2026-11-16,2,2
 mcp:tools/list,2026-11-16,5,4
-port:1433:mssql,2026-11-16,1435,60
-port:2375:docker,2026-11-16,89,11
-port:2375:docker:host-escape container (/ mount or privileged),2026-11-16,2,1
-port:2375:docker:image pull,2026-11-16,3,1
-port:2375:docker:miner container,2026-11-16,1,0
-port:3306:mysql,2026-11-16,1165,17
-port:5555:adb,2026-11-16,117,23
-port:5555:adb:adb file upload,2026-11-16,2,2
-port:5555:adb:adb shell command,2026-11-16,6,4
-port:5900:vnc,2026-11-16,35698,510
-port:6379:redis,2026-11-16,289,27
-port:9200:elasticsearch,2026-11-16,345,33
-probe:ssh:03a80b21afa810682a776a7d42e5e6fb,2026-11-16,1,0
-probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-16,1,1
+port:1433:mssql,2026-11-16,2870,60
+port:2375:docker,2026-11-16,178,11
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-16,4,1
+port:2375:docker:image pull,2026-11-16,6,1
+port:2375:docker:miner container,2026-11-16,2,0
+port:3306:mysql,2026-11-16,2330,17
+port:5555:adb,2026-11-16,234,23
+port:5555:adb:adb file upload,2026-11-16,4,2
+port:5555:adb:adb shell command,2026-11-16,12,4
+port:5900:vnc,2026-11-16,71396,510
+port:6379:redis,2026-11-16,578,27
+port:9200:elasticsearch,2026-11-16,690,33
+probe:ssh:03a80b21afa810682a776a7d42e5e6fb,2026-11-16,2,0
+probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-16,3,1
+probe:ssh:0a07365cc01fa9fc82608ba4019af499,2026-11-16,2,0
 probe:ssh:16443846184eafde36765c9bab2f4397,2026-11-16,2,2
-probe:ssh:2ec37a7cc8daf20b10e1ad6221061ca5,2026-11-16,4,0
-probe:ssh:4e066189c3bbeec38c99b1855113733a,2026-11-16,1,1
-probe:ssh:52c99fce46b6758a467102ce5bd1c565,2026-11-16,1,1
-probe:ssh:9052c4ab4164c78256e71143dcfc7eac,2026-11-16,1,1
-probe:ssh:GET / HTTP/1.1,2026-11-16,1,1
-probe:ssh:SSH-2.0-libssh2_1.11.1,2026-11-16,1,1
-probe:ssh:SSH-2.0-libssh_0.9.6,2026-11-16,4,2
+probe:ssh:19532158b559096b89b1a5f7d17175b2,2026-11-16,1,1
+probe:ssh:2ec37a7cc8daf20b10e1ad6221061ca5,2026-11-16,10,0
+probe:ssh:3c0eaacec19ba322a90a5541dac09a06,2026-11-16,1,1
+probe:ssh:46a2ae5b447a73d9fbe6516e4b25976e,2026-11-16,1,1
+probe:ssh:4c94058d5e9e31659879f79fd5b46084,2026-11-16,2,1
+probe:ssh:4e066189c3bbeec38c99b1855113733a,2026-11-16,3,1
+probe:ssh:52c99fce46b6758a467102ce5bd1c565,2026-11-16,2,2
+probe:ssh:5445c358120b523b688fb5f70acd1122,2026-11-16,1,0
+probe:ssh:67d22badcb1fddeebd06086263bc35fa,2026-11-16,2,0
+probe:ssh:9052c4ab4164c78256e71143dcfc7eac,2026-11-16,4,2
+probe:ssh:GET / HTTP/1.1,2026-11-16,4,4
+probe:ssh:GET /favicon.ico HTTP/1.1,2026-11-16,1,1
+probe:ssh:MGLNDD_<sensor-ip>_22,2026-11-16,1,1
+probe:ssh:MGLNDD_<sensor-ip>_2222,2026-11-16,3,3
+probe:ssh:SSH-1.5-Nmap-SSH1-Hostkey,2026-11-16,2,2
+probe:ssh:SSH-1.5-Server,2026-11-16,1,1
+probe:ssh:SSH-2.0-Fingerprintx-SSH2,2026-11-16,3,3
+probe:ssh:SSH-2.0-Go,2026-11-16,2,2
+probe:ssh:SSH-2.0-OpenSSH,2026-11-16,1,1
+probe:ssh:SSH-2.0-OpenSSH_9.2p1 Debian-2+d,2026-11-16,2,0
+probe:ssh:SSH-2.0-libssh2_1.11.1,2026-11-16,2,1
+probe:ssh:SSH-2.0-libssh_0.11.1,2026-11-16,1,0
+probe:ssh:SSH-2.0-libssh_0.7.4,2026-11-16,1,0
+probe:ssh:SSH-2.0-libssh_0.9.6,2026-11-16,5,2
+probe:ssh:\x16\x03\x01\x00\xee\x01\x00\x00,2026-11-16,2,1
+probe:ssh:\x16\x03\x01\x00\xfc\x01\x00\x00,2026-11-16,1,1
 probe:ssh:\x16\x03\x01\x00{\x01\x00\x00w\x,2026-11-16,2,1
-probe:ssh:acaa53e0a7d7ac7d1255103f37901306,2026-11-16,1,1
+probe:ssh:\x16\x03\x01\x01\x9f\x01\x00\x01,2026-11-16,1,1
+probe:ssh:\x16\x03\x01\x01\xa9\x01\x00\x01,2026-11-16,2,1
+probe:ssh:\x16\x03\x01\x01\xb6\x01\x00\x01,2026-11-16,1,1
+probe:ssh:\x16\x03\x01\x05\xdc\x01\x00\x05,2026-11-16,3,1
+probe:ssh:\x16\x03\x02\x01\x9c\x01\x00\x01,2026-11-16,1,1
+probe:ssh:\x16\x03\x03\x01J\x01\x00\x01F\x,2026-11-16,1,1
+probe:ssh:\x16\x03\x03\x01X\x01\x00\x01T\x,2026-11-16,1,1
+probe:ssh:\x16\x03\x03\x01\x9b\x01\x00\x01,2026-11-16,1,1
+probe:ssh:\x16\x03\x03\x01\xa7\x01\x00\x01,2026-11-16,2,1
+probe:ssh:\x16\x03\x03\x02c\x01\x00\x02_\x,2026-11-16,1,1
+probe:ssh:\xfe\x07adminSSH-2.0-OpenSSH_7.4,2026-11-16,1,1
+probe:ssh:\xfe\x08\x01adminSSH-2.0-OpenSSH,2026-11-16,2,2
+probe:ssh:a20aced7c9824fd804f59e68dd801ad3,2026-11-16,2,2
+probe:ssh:a984ff804585fabe3cd08f4b3849024a,2026-11-16,5,0
+probe:ssh:acaa53e0a7d7ac7d1255103f37901306,2026-11-16,4,3
+probe:ssh:b4b8ae3d7241d2c1dc54b4df7e8c19d1,2026-11-16,1,1
+probe:ssh:b893695067f94c8d2ed92025b192c636,2026-11-16,1,1
 probe:ssh:bc3aee897af7d3feb9fc37b89c7d15c9,2026-11-16,1,0
+probe:ssh:bc9e7273cde22b1209d6673b5fd10bd5,2026-11-16,3,2
+probe:ssh:d6729b7f24428169e981ad4840063ca5,2026-11-16,1,1
+probe:ssh:dd9bcf093c355da7000132131cb36fd0,2026-11-16,4,4
+probe:ssh:e54ef3ec27fe1fea7ab64d3fa05359fd,2026-11-16,3,2
+probe:ssh:e788c657d1a22971d5026526ffd2e918,2026-11-16,8,2
 probe:ssh:f555226df1963d1d3c09daf865abdc9a,2026-11-16,2,2
-probe:ssh:none,2026-11-16,53,22
+probe:ssh:none,2026-11-16,4550,164
 probe:telnet:none,2026-11-16,221,53
 proxy:check,2026-11-16,3,1
 proxy:cowrie:http,2026-11-16,31,0
@@ -8341,93 +8506,297 @@ proxy:socks:none,2026-11-16,10,4
 proxy:socks:raw,2026-11-16,2,1
 proxy:socks:tls,2026-11-16,11,3
 smtp:inbound,2026-11-16,56,15
-auth:ssh:14b2ddda386a4d1006108ccd231b42fc,2026-11-17,1,0
-auth:ssh:3356ae6145fa86124298066e281ea2d9,2026-11-17,9,0
+auth:ssh:03a80b21afa810682a776a7d42e5e6fb,2026-11-17,8,0
+auth:ssh:14b2ddda386a4d1006108ccd231b42fc,2026-11-17,3,0
+auth:ssh:3356ae6145fa86124298066e281ea2d9,2026-11-17,16,0
+auth:ssh:44ac1859818d6cacfb48ec9cb230b3f0,2026-11-17,1,1
+auth:ssh:713bd9cc935561939c02dad25af2d3de,2026-11-17,1,0
 auth:ssh:742ee33575d0ff88acd63dcc5529bb46,2026-11-17,1,1
 auth:ssh:748f8c627d3f8ff9921d02f86f55ba2c,2026-11-17,1,0
-auth:ssh:7d01d047ace68f3151ea773e1e0d4838,2026-11-17,8,0
-auth:ssh:831689b95069cfeff67856e98714aafd,2026-11-17,4,0
-auth:ssh:a289c065bf37397b69226bd770e33124,2026-11-17,2,0
-auth:ssh:acaa53e0a7d7ac7d1255103f37901306,2026-11-17,4,1
-auth:ssh:b714b2c1d0e1239c988bdf7d37ade2a5,2026-11-17,373,0
+auth:ssh:7d01d047ace68f3151ea773e1e0d4838,2026-11-17,17,0
+auth:ssh:831689b95069cfeff67856e98714aafd,2026-11-17,5,0
+auth:ssh:a289c065bf37397b69226bd770e33124,2026-11-17,4,0
+auth:ssh:acaa53e0a7d7ac7d1255103f37901306,2026-11-17,55,14
+auth:ssh:b714b2c1d0e1239c988bdf7d37ade2a5,2026-11-17,954,0
 auth:ssh:dde267e50f82fcc16a7e1e7b59b8af71,2026-11-17,1,0
 auth:ssh:eab0d52b84b998cd619b843eee97f6e8,2026-11-17,1,1
-auth:ssh:f555226df1963d1d3c09daf865abdc9a,2026-11-17,32,2
-auth:telnet:unknown,2026-11-17,53,3
+auth:ssh:f555226df1963d1d3c09daf865abdc9a,2026-11-17,103,17
+auth:ssh:family-345gs,2026-11-17,7,2
+auth:telnet:unknown,2026-11-17,111,7
 cmd:023c4314025a132d,2026-11-17,1,1
+cmd:05f774cf208c2824,2026-11-17,9,2
+cmd:0811e121f2358dd7,2026-11-17,1,1
 cmd:08a9405a49b00238,2026-11-17,1,1
-cmd:0fa0222d41804456,2026-11-17,19,2
+cmd:0fa0222d41804456,2026-11-17,69,15
+cmd:101d077377dd6db3,2026-11-17,1,1
 cmd:13aab7fc0ab89f22,2026-11-17,1,1
 cmd:17ed44a31b506a58,2026-11-17,1,1
 cmd:1824c8401624ff1c,2026-11-17,1,1
 cmd:186876f0601dac30,2026-11-17,1,1
+cmd:18a1a12ba865a1a8,2026-11-17,1,1
+cmd:18c0ba7007f433b3,2026-11-17,1,1
 cmd:18f2dfecb7e430c8,2026-11-17,1,1
+cmd:198bb6a64f50e68c,2026-11-17,1,1
 cmd:1c20e35e9fe26b26,2026-11-17,1,1
-cmd:20228edcce195299,2026-11-17,6,6
+cmd:1c32e46bbb7f54be,2026-11-17,1,1
+cmd:20228edcce195299,2026-11-17,11,11
 cmd:229ebeb406a80fb5,2026-11-17,1,1
+cmd:26ee3827f7175781,2026-11-17,1,1
+cmd:2797d4bd20b7c2ea,2026-11-17,1,1
+cmd:2a63eff1da20a550,2026-11-17,1,0
+cmd:2ab2667353f18a37,2026-11-17,1,1
+cmd:2c064f36187d78b6,2026-11-17,1,0
+cmd:309a3de1f804b79c,2026-11-17,1,1
 cmd:31b931bc4e50ac5b,2026-11-17,1,1
 cmd:320ac710b2ccd743,2026-11-17,1,1
+cmd:363c18771ae0e803,2026-11-17,1,1
+cmd:36e47ceec5579a41,2026-11-17,1,1
+cmd:3d5d143a3a097f72,2026-11-17,1,1
+cmd:3fe62a96e4fe8d1d,2026-11-17,1,1
+cmd:417ee11c4e63fb80,2026-11-17,2,0
+cmd:448db2fd5fbe8c28,2026-11-17,1,1
+cmd:49df0e5e109a879d,2026-11-17,1,1
+cmd:4bffeba2441e8cba,2026-11-17,2,1
+cmd:52ef58d4a633dd4b,2026-11-17,1,1
+cmd:56022aa3a62dc158,2026-11-17,1,1
 cmd:56eea72373ab06e5,2026-11-17,1,1
 cmd:572fed7c72f90164,2026-11-17,1,1
-cmd:61912bcbd56c9b64,2026-11-17,2,0
+cmd:57562c990a1519aa,2026-11-17,1,1
+cmd:5b03f7a2b878d4ee,2026-11-17,1,1
+cmd:5d4b79cebb4ffac6,2026-11-17,1,0
+cmd:60840229240dd819,2026-11-17,1,1
+cmd:61912bcbd56c9b64,2026-11-17,4,1
 cmd:641eca6e54d381c5,2026-11-17,1,1
+cmd:655f97ce60761e04,2026-11-17,1,1
+cmd:663d6789bf3ba4e2,2026-11-17,3,3
+cmd:6715b070777b60cb,2026-11-17,1,1
+cmd:67d3fb5bf25e80b5,2026-11-17,1,1
 cmd:6873a7c3ef7ff4f2,2026-11-17,1,1
+cmd:6933ad6835876481,2026-11-17,1,1
 cmd:6a5ad111156a8056,2026-11-17,1,1
 cmd:6be54e8d774e20d2,2026-11-17,1,1
 cmd:740f4c7f5953632d,2026-11-17,1,1
+cmd:74f494c70ff0d24f,2026-11-17,1,0
+cmd:7b58789cf48bfceb,2026-11-17,1,1
+cmd:7c6f889cf3881167,2026-11-17,1,1
 cmd:7e699338ad527963,2026-11-17,1,1
+cmd:7ea355126d91348b,2026-11-17,35,1
+cmd:7fa628149c571297,2026-11-17,1,0
+cmd:8410d6fdbfdbbf26,2026-11-17,1,1
 cmd:8494a622441390c6,2026-11-17,1,1
-cmd:873754a2cb3e00b7,2026-11-17,2,1
-cmd:8b5fb88850f0bf22,2026-11-17,3,1
+cmd:8539556ae1f86687,2026-11-17,1,0
+cmd:8612a3e423506fa0,2026-11-17,1,0
+cmd:873754a2cb3e00b7,2026-11-17,3,2
+cmd:8b5fb88850f0bf22,2026-11-17,6,3
+cmd:8c5258c76e664198,2026-11-17,1,1
+cmd:8d30e1ac18f592d5,2026-11-17,1,1
+cmd:8e0aa60357ba408b,2026-11-17,1,1
+cmd:93aa00c18731a255,2026-11-17,1,1
 cmd:96611393ff07da35,2026-11-17,1,0
 cmd:9694a86c9bd0648c,2026-11-17,1,1
 cmd:994472203e2743ea,2026-11-17,1,1
+cmd:9e7c11eba6c4d914,2026-11-17,1,1
+cmd:a092bc72de82cb6f,2026-11-17,1,1
+cmd:a10e9dce460df852,2026-11-17,1,1
 cmd:a4c1ec7b014c1e12,2026-11-17,1,1
 cmd:a738d0bc7b471c8e,2026-11-17,1,1
+cmd:b0493c706299d7f8,2026-11-17,1,1
 cmd:b28958a8b0e7702e,2026-11-17,1,1
 cmd:b4e1b20c9fe2a7da,2026-11-17,1,1
+cmd:bc61761e99b19f50,2026-11-17,1,1
+cmd:bcaa8a4249d45534,2026-11-17,1,1
+cmd:c157be9ae996d8ed,2026-11-17,2,0
 cmd:c266a020e93e92a1,2026-11-17,1,1
 cmd:c7f96539c1849d61,2026-11-17,1,1
 cmd:d13c51b37561e04a,2026-11-17,1,1
 cmd:d17c23ab89e72f57,2026-11-17,1,1
 cmd:dc1ba32fee2f338a,2026-11-17,1,1
 cmd:debbebe69b8e9a1e,2026-11-17,1,1
+cmd:df7f29e69a7f1c75,2026-11-17,1,1
+cmd:e48522c6f324f102,2026-11-17,1,0
 cmd:e815e237563623dd,2026-11-17,1,1
+cmd:e97166b54500da3a,2026-11-17,2,2
 cmd:e998d38df8f05f01,2026-11-17,1,1
+cmd:e9a40bea1aedfbcb,2026-11-17,1,1
+cmd:e9f565ce6abe6c2b,2026-11-17,1,0
+cmd:eb2a2d21fb695c23,2026-11-17,1,0
+cmd:ed7cfce543c260a7,2026-11-17,9,2
+cmd:ede5a3d6f1ab2242,2026-11-17,1,1
 cmd:eeccac6147454849,2026-11-17,1,1
+cmd:f1f5b12ebbdd74b6,2026-11-17,1,1
 cmd:f1fe9d6a7318579d,2026-11-17,2,1
+cmd:f552284ff1aded54,2026-11-17,1,1
+cmd:f59077fcb41f942c,2026-11-17,1,1
+cmd:f718b54590248320,2026-11-17,1,1
 cmd:fbbc2aad2a5ad8c7,2026-11-17,1,1
+cmd:fc2828103c612c2b,2026-11-17,1,1
 cmd:fd7dc638793c680b,2026-11-17,1,1
-http:backup-hunt,2026-11-17,28,0
-http:container-api,2026-11-17,3,1
-http:debug-pages,2026-11-17,61,2
-http:exchange,2026-11-17,1,1
-http:geoserver,2026-11-17,1,1
+cmd:fdb197dd8e24198b,2026-11-17,1,1
+http:backup-hunt,2026-11-17,30,0
+http:container-api,2026-11-17,4,1
+http:debug-pages,2026-11-17,161,3
+http:exchange,2026-11-17,2,1
+http:geoserver,2026-11-17,2,2
 http:iot-rce,2026-11-17,1,1
-http:secrets-harvest,2026-11-17,264,3
-http:wordpress,2026-11-17,9,1
-port:1433:mssql,2026-11-17,112,36
-port:2375:docker,2026-11-17,10,2
-port:3306:mysql,2026-11-17,188,9
-port:5555:adb,2026-11-17,44,5
-port:5900:vnc,2026-11-17,12932,125
-port:6379:redis,2026-11-17,44,8
-port:9200:elasticsearch,2026-11-17,135,14
+http:owncloud-graphapi,2026-11-17,8,1
+http:secrets-harvest,2026-11-17,922,6
+http:wordpress,2026-11-17,303,4
+mcp:<GET>,2026-11-17,6,4
+mcp:<connect>,2026-11-17,1,1
+mcp:initialize,2026-11-17,8,4
+mcp:notifications/initialized,2026-11-17,4,2
+mcp:prompts/list,2026-11-17,2,2
+mcp:resources/list,2026-11-17,2,1
+mcp:tools/list,2026-11-17,4,3
+port:1433:mssql,2026-11-17,374,68
+port:2375:docker,2026-11-17,198,10
+port:2375:docker:container create,2026-11-17,1,1
+port:2375:docker:exec into container,2026-11-17,2,1
+port:2375:docker:host-escape container (/ mount or privileged),2026-11-17,4,0
+port:2375:docker:image pull,2026-11-17,1,0
+port:3306:mysql,2026-11-17,1264,24
+port:5555:adb,2026-11-17,155,16
+port:5555:adb:adb file upload,2026-11-17,1,1
+port:5555:adb:adb shell command,2026-11-17,13,3
+port:5900:vnc,2026-11-17,43985,232
+port:6379:redis,2026-11-17,129,16
+port:9200:elasticsearch,2026-11-17,340,27
+probe:ssh:0b388ad5db15b5bec6d5b1998b06cbec,2026-11-17,1,1
 probe:ssh:2ec37a7cc8daf20b10e1ad6221061ca5,2026-11-17,3,1
 probe:ssh:4e066189c3bbeec38c99b1855113733a,2026-11-17,1,1
 probe:ssh:52c99fce46b6758a467102ce5bd1c565,2026-11-17,1,0
 probe:ssh:7216c7c473918b4f83d1139b3c70dbf9,2026-11-17,1,1
+probe:ssh:79a6b0a88c290fae6646df516154a130,2026-11-17,1,1
+probe:ssh:SSH-2.0-libssh_0.11.1,2026-11-17,1,0
 probe:ssh:\xfe\x07adminSSH-2.0-OpenSSH_7.4,2026-11-17,1,0
-probe:ssh:acaa53e0a7d7ac7d1255103f37901306,2026-11-17,1,1
-probe:ssh:none,2026-11-17,14,7
-probe:telnet:none,2026-11-17,99,19
+probe:ssh:acaa53e0a7d7ac7d1255103f37901306,2026-11-17,2,2
+probe:ssh:bc3aee897af7d3feb9fc37b89c7d15c9,2026-11-17,1,0
+probe:ssh:dd9bcf093c355da7000132131cb36fd0,2026-11-17,1,1
+probe:ssh:f555226df1963d1d3c09daf865abdc9a,2026-11-17,1,1
+probe:ssh:none,2026-11-17,61,25
+probe:telnet:none,2026-11-17,197,37
 proxy:check,2026-11-17,2,0
-proxy:cowrie:http,2026-11-17,17,0
-proxy:cowrie:raw,2026-11-17,9,0
-proxy:cowrie:tls,2026-11-17,392,0
-proxy:httpproxy:none,2026-11-17,4,1
-proxy:scan,2026-11-17,4,1
-proxy:smtp,2026-11-17,4,3
-proxy:socks:none,2026-11-17,3,2
-proxy:socks:tls,2026-11-17,2,0
-smtp:inbound,2026-11-17,16,7
+proxy:cowrie:http,2026-11-17,19,0
+proxy:cowrie:raw,2026-11-17,16,0
+proxy:cowrie:tls,2026-11-17,985,0
+proxy:httpproxy:http,2026-11-17,2,1
+proxy:httpproxy:none,2026-11-17,22,7
+proxy:scan,2026-11-17,26,13
+proxy:smtp,2026-11-17,54,47
+proxy:socks:http,2026-11-17,13,7
+proxy:socks:none,2026-11-17,28,10
+proxy:socks:raw,2026-11-17,1,1
+proxy:socks:tls,2026-11-17,7,4
+smtp:inbound,2026-11-17,38,18
+auth:ssh:14b2ddda386a4d1006108ccd231b42fc,2026-11-18,1,0
+auth:ssh:3356ae6145fa86124298066e281ea2d9,2026-11-18,3,0
+auth:ssh:7d01d047ace68f3151ea773e1e0d4838,2026-11-18,3,0
+auth:ssh:acaa53e0a7d7ac7d1255103f37901306,2026-11-18,6,4
+auth:ssh:b714b2c1d0e1239c988bdf7d37ade2a5,2026-11-18,368,0
+auth:ssh:eab0d52b84b998cd619b843eee97f6e8,2026-11-18,3,1
+auth:ssh:f555226df1963d1d3c09daf865abdc9a,2026-11-18,66,8
+auth:ssh:family-345gs,2026-11-18,3,3
+auth:telnet:unknown,2026-11-18,7,6
+cmd:034bad615dea33b2,2026-11-18,1,1
+cmd:03c149726992d56f,2026-11-18,1,1
+cmd:05f774cf208c2824,2026-11-18,7,0
+cmd:0ad7383175126fbe,2026-11-18,1,1
+cmd:0cd9ecfa99823063,2026-11-18,1,1
+cmd:0fa0222d41804456,2026-11-18,40,7
+cmd:174ceecbdbcc1090,2026-11-18,1,1
+cmd:198e58853c8e96bd,2026-11-18,1,1
+cmd:1a88218aa4021cc2,2026-11-18,1,0
+cmd:2740cb7ad72ea33d,2026-11-18,1,1
+cmd:2afa4c60cd42f5db,2026-11-18,1,1
+cmd:2b00ab2548928ff8,2026-11-18,1,1
+cmd:2c064f36187d78b6,2026-11-18,1,0
+cmd:386ee01a48c8d473,2026-11-18,1,1
+cmd:417ee11c4e63fb80,2026-11-18,1,0
+cmd:545a06da331dfb9e,2026-11-18,1,0
+cmd:572fed7c72f90164,2026-11-18,2,2
+cmd:5af2de096f0bf35a,2026-11-18,1,1
+cmd:61912bcbd56c9b64,2026-11-18,3,0
+cmd:6933ad6835876481,2026-11-18,2,2
+cmd:7ab552f01de999cb,2026-11-18,130,1
+cmd:7ea355126d91348b,2026-11-18,30,0
+cmd:7fa628149c571297,2026-11-18,1,0
+cmd:7fe88431b9465176,2026-11-18,1,0
+cmd:812debcb9bb23384,2026-11-18,1,0
+cmd:817545f3bca5d0bd,2026-11-18,1,1
+cmd:83cea454ce8d5db0,2026-11-18,1,1
+cmd:873754a2cb3e00b7,2026-11-18,1,1
+cmd:87a4898752d484d4,2026-11-18,1,0
+cmd:8b5fb88850f0bf22,2026-11-18,9,5
+cmd:8eef50aa46ea7461,2026-11-18,1,1
+cmd:944a2aafb0cb4c96,2026-11-18,1,1
+cmd:9b147acd114e3d0c,2026-11-18,1,1
+cmd:9eb9ade8753527a6,2026-11-18,1,0
+cmd:ae19656ffdcb4677,2026-11-18,1,1
+cmd:b2f8aa8954f44f0d,2026-11-18,1,1
+cmd:b3ee4a6510d5c9df,2026-11-18,1,1
+cmd:bb03fe10ca771a74,2026-11-18,1,1
+cmd:bdde458c23822f17,2026-11-18,1,1
+cmd:bf5d13ba1ee4b063,2026-11-18,1,0
+cmd:c2f8614dfc2e5f5e,2026-11-18,1,1
+cmd:c76aab0263b58221,2026-11-18,1,0
+cmd:c81d479e03410d7d,2026-11-18,1,1
+cmd:c8df8aba37ebdefc,2026-11-18,1,1
+cmd:cbeb30cfb126b71b,2026-11-18,1,1
+cmd:cecbe714b41afed6,2026-11-18,1,0
+cmd:d62d1f1bc5cbe5a8,2026-11-18,1,0
+cmd:d6f20f4ab5a21702,2026-11-18,1,1
+cmd:dc298523e8962176,2026-11-18,1,1
+cmd:e9a40bea1aedfbcb,2026-11-18,1,1
+cmd:eb2a2d21fb695c23,2026-11-18,1,0
+cmd:ed7cfce543c260a7,2026-11-18,7,0
+cmd:edd19c4523cb5510,2026-11-18,1,1
+cmd:eed034a535d92ae3,2026-11-18,1,1
+cmd:f13bfa58ed049aa6,2026-11-18,2,0
+cmd:f1fe9d6a7318579d,2026-11-18,1,1
+cmd:f55514a7a5b528c4,2026-11-18,1,1
+cmd:f59077fcb41f942c,2026-11-18,2,2
+cmd:fb9d00cc3680e5f6,2026-11-18,1,1
+cmd:fc5f1ea3a1ea0693,2026-11-18,1,0
+cmd:ff5fb5edc586172a,2026-11-18,1,1
+http:container-api,2026-11-18,1,0
+http:debug-pages,2026-11-18,1,1
+http:exchange,2026-11-18,1,0
+http:geoserver,2026-11-18,1,0
+http:iot-rce,2026-11-18,1,1
+http:secrets-harvest,2026-11-18,6,0
+http:wordpress,2026-11-18,10,0
+mcp:<GET>,2026-11-18,6,3
+mcp:initialize,2026-11-18,6,5
+mcp:notifications/initialized,2026-11-18,2,2
+mcp:prompts/list,2026-11-18,2,2
+mcp:resources/list,2026-11-18,2,2
+mcp:tools/list,2026-11-18,2,2
+port:1433:mssql,2026-11-18,76,10
+port:2375:docker,2026-11-18,15,4
+port:3306:mysql,2026-11-18,192,15
+port:5555:adb,2026-11-18,34,7
+port:5900:vnc,2026-11-18,12993,88
+port:6379:redis,2026-11-18,53,7
+port:9200:elasticsearch,2026-11-18,47,17
+probe:ssh:084386fa7ae5039bcf6f07298a05a227,2026-11-18,1,0
+probe:ssh:4e066189c3bbeec38c99b1855113733a,2026-11-18,1,1
+probe:ssh:7216c7c473918b4f83d1139b3c70dbf9,2026-11-18,1,1
+probe:ssh:GET / HTTP/1.1,2026-11-18,1,1
+probe:ssh:SSH-2.0-libssh_0.9.6,2026-11-18,3,2
+probe:ssh:\x16\x03\x01\x01\x9f\x01\x00\x01,2026-11-18,1,1
+probe:ssh:\x16\x03\x03\x01\xa7\x01\x00\x01,2026-11-18,1,1
+probe:ssh:acaa53e0a7d7ac7d1255103f37901306,2026-11-18,1,1
+probe:ssh:b21d7cdcc8133dc2b430d1a039fece20,2026-11-18,2,1
+probe:ssh:bc9e7273cde22b1209d6673b5fd10bd5,2026-11-18,1,0
+probe:ssh:dd9bcf093c355da7000132131cb36fd0,2026-11-18,1,1
+probe:ssh:none,2026-11-18,21,10
+probe:telnet:none,2026-11-18,102,23
+proxy:cowrie:http,2026-11-18,1,0
+proxy:cowrie:raw,2026-11-18,3,0
+proxy:cowrie:tls,2026-11-18,371,0
+proxy:httpproxy:none,2026-11-18,6,3
+proxy:scan,2026-11-18,12,3
+proxy:smtp,2026-11-18,6,6
+proxy:socks:none,2026-11-18,8,3
+proxy:socks:raw,2026-11-18,6,0
+smtp:inbound,2026-11-18,17,8
