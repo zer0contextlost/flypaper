@@ -5,18 +5,18 @@ United States: SSH and Telnet sessions with every login attempt and command, mal
 exploit requests, and the attack campaigns they group into. It's rebuilt nightly from the raw logs
 and released under CC-BY-4.0.
 
-Current contents (2026-08-10 to 2026-11-25, UTC):
+Current contents (2026-08-10 to 2026-11-26, UTC):
 
 | | |
 |---|---|
-| SSH/Telnet sessions | 438,066 (325,685 honeyfleet, 112,381 Cowrie) |
-| login attempts | 417,612 |
-| commands typed | 596,589 |
-| files dropped (hashes) | 15,806 |
-| web requests | 119,580 |
-| IPs that hit the Cowrie and web sensors (since 2026-08-09) | 6,041 |
-| campaigns | 5,120 |
-| malware samples triaged | 302 |
+| SSH/Telnet sessions | 449,447 (333,471 honeyfleet, 115,976 Cowrie) |
+| login attempts | 428,645 |
+| commands typed | 606,123 |
+| files dropped (hashes) | 15,982 |
+| web requests | 122,114 |
+| IPs that hit the Cowrie and web sensors (since 2026-08-09) | 6,251 |
+| campaigns | 5,383 |
+| malware samples triaged | 312 |
 
 ## Sensors
 
